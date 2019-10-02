@@ -1,8 +1,8 @@
-<a href="http://192.168.0.110/smr2A_Jose/smr2a.php">Jose</a>
-Alberto <a href="http://192.168.0.203/SMR2A_ADRIAN/smr2a.php">Adrian</a>
+<a href="http://192.168.0.115/smr2A_Cristian/smr2a.php">Cristian</a>
+Alberto <a href="http://192.168.0.108/SMR2A-VCR/smr2a.php">Victor</a>
 <html>
 	<h1>
-		<a href="http://localhost/smr2a_alberto/catalogo.php">LISTA GITHUB</a>
+		<a href="http://192.168.0.93/smr2a_alberto/catalogo.php">LISTA GITHUB</a>
 	</h1>
 	</html>
 <?php

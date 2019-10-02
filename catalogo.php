@@ -9,4 +9,7 @@
 		<a href="https://github.com/gabrieldecroly" target="_blank">Gabi</a>
 		<a href="https://github.com/anabelladecroly" target="_blank">Anabella</a>
 		<a href="https://github.com/pablodecroly" target="_blank">Pablo</a>
+		<a href="https://github.com/CristianRed" target="_blank">Cristian</a>
+		<a href="https://github.com/jonan100000" target="_blank">Jonander</a>
+		<a href="https://github.com/" target="_blank"></a>
 	</html>
