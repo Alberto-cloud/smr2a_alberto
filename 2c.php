@@ -1,10 +1,10 @@
 <?php
-function calcular($a,$b){
+function calcula($a,$b){
 echo ($a+$b).'<br>';
 echo ($a-$b).'<br>';
 echo ($a*$b).'<br>';
 echo ($a/$b).'<br>';
 }
-calcular(9,15);
+calcula(9,15);
 
 ?>
