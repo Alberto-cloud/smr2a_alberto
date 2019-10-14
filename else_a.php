@@ -2,7 +2,8 @@
 function calcula($a){
 if ($a >= 5) {
     echo "Apto";
-} else {
+} 
+else {
     echo "No Apto";
 }
 }
