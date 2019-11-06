@@ -7,7 +7,7 @@
 	</head>
 			
 	
-	<body bgcolor="#E6E6FA">
+	<body bgcolor="#FFCCCC">
 	<center>
 									<table border="2px"> 
 										<tr>
@@ -15,30 +15,40 @@
 										<center>
 	<h1>Se tenía que decir y se dijo</h1>
 		<form>
-			Si me ha faltado alguna comunidad autónoma,escríbala por favor <input type="text" name="texto"><br>
-					<button>Enviar</button>
+			<p><h5>Si me ha faltado alguna comunidad autónoma,escríbala por favor</h5></p> <input type="text" name="texto"><br>
+					<p><button type='submit'>Enviar</button></p>
 		</form>
 		<img src="dijo.jpg"  width=”250” height=”80”/>
 	<h2>
 		<u>Comunidades autónomas bañadas por el Cantábrico</u>
 	</h2>
-	<font size="14" color="blue">Estas son las comunidades autónomas bañadas por el Cantábrico</font>
-																<table border="2px"> <!-- Lo cambiaremos por CSS -->
+	<font size="14" color="#F781F3">Estas son las comunidades autónomas bañadas por el Cantábrico</font>
+																<table border="2px"> 
 																<tr>
-																<td>Celda 1</td>
-																<td>Celda 2</td>
-																<td>Celda 3</td>
+																<td><b>País Vasco</b></td>
+																<td>Vizcaya y Guipúzcua</td>
+																<tr>
+																<td><b>Cantabria</b></td>
+																<td>Santander</td>
 																</tr>
 																<tr>
-																<td>Celda 4</td>
-																<td>Celda 5</td>
-																<td>Celda 6</td>
+																<td><b>Asturias</b></td>
+																<td>Gijón,Áviles,Sueve,Oriente y Eo-Navia</td>
+																</tr>
+																<tr>
+																<td><b>Galicia</b></td>
+																<td>La Coruña y Lugo</td>
 																</tr>
 																</table>
+																
+																<br>Hecho por Alberto Rosa</br>
+																<br>SMR2A Aplicaciones Web</br>
 										</center>
 										</td>
 										</tr>
+										
 									</table>
+									
 	</center>
 	</body>
 </html>
