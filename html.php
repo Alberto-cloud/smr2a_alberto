@@ -23,26 +23,27 @@
 		<u>Comunidades autónomas bañadas por el Cantábrico</u>
 	</h2>
 	<font size="14" color="#F781F3">Estas son las comunidades autónomas bañadas por el Cantábrico</font>
-																<table border="2px"> 
-																<tr>
-																<td><b>País Vasco</b></td>
-																<td>Vizcaya y Guipúzcua</td>
-																<tr>
-																<td><b>Cantabria</b></td>
-																<td>Santander</td>
-																</tr>
-																<tr>
-																<td><b>Asturias</b></td>
-																<td>Gijón,Áviles,Sueve,Oriente y Eo-Navia</td>
-																</tr>
-																<tr>
-																<td><b>Galicia</b></td>
-																<td>La Coruña y Lugo</td>
-																</tr>
-																</table>
+				<table border="2px"> 
+				<tr>
+				<td><b>País Vasco</b></td>
+				<td>Vizcaya y Guipúzcua</td>
+				</tr>
+						<tr>
+						<td><b>Cantabria</b></td>
+						<td>Santander</td>
+						</tr>
+								<tr>
+								<td><b>Asturias</b></td>
+								<td>Gijón,Áviles,Sueve,Oriente y Eo-Navia</td>
+								</tr>
+										<tr>
+										<td><b>Galicia</b></td>
+										<td>La Coruña y Lugo</td>
+										</tr>
+										</table>
 																
-																<br>Hecho por Alberto Rosa</br>
-																<br>SMR2A Aplicaciones Web</br>
+		<br>Hecho por Alberto Rosa</br>
+		<br>SMR2A Aplicaciones Web</br>
 										</center>
 										</td>
 										</tr>
