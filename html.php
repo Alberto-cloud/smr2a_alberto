@@ -13,7 +13,7 @@
 										<tr>
 										<td>
 										<center>
-	<h1><font size="14" color="#ff94b2">LA PELÍCULA</font></h1>
+	<h1><font size="14" color="#ff94b2"><u>LA PELÍCULA</u></font></h1>
 	<h2><font size="10" color="#c894ff">Se tenía que decir y se dijo</font></h2>
 		
 		<img src="dijo.jpg"  width="400" height="250"/>
