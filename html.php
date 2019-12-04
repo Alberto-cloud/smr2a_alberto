@@ -21,7 +21,8 @@
 			<p><h2><font  color="#ff94ae">Fecha  de estreno</h2></p></font>
 			15/7/2069
 			<p><h2><font  color="#ff94ae">Sinopsis</h2></p></font>
-			El pollo Alfredo, se embarcará
+			El pollo Alfredo, se embarcará en una aventura para devolver la vida a su reino, que años atrás, un villano les arrebató su pueblo.
+			En la aventura, Alfredo conocerá a muchos amigos y ... a muchos enemigos.
 			
 			
 		<h1><font size="10" color="#c894ff">Uganda Knuckcles KNOES DA WAE!</font>
@@ -29,6 +30,7 @@
 			<p><h2><font  color="#ff94ae">Fecha  de estreno</h2></p></font>
 			1/9/2039
 			<p><h2><font  color="#ff94ae">Sinopsis</h2></p></font>
+			 Tras el secuestro de la Reina de Uganda, Knuckcles deberá encontrar el camino correcto para llegar a DA WAE.
 			
 			
 		<br/><font size="9" color="#ff94ae">Nunca en cines</font>
