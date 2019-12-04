@@ -1,15 +1,15 @@
 <?php
-function lados($a,$b,$c){
-if ($a==$b and $b==$c){
-	echo "Equilátero";
+function calcula($a,$b,$c){
+	$r='escaleno';
+	if($a==$b or $b==$c or $a==$c)
+		$r='isósceles';
+	if($a==$b and $b==$c)
+		$r='equilátero';
+	return $r;
 }
-if ($a==$b or $a==$c or$b==$c){
-	echo "Isósceles";
-}
-if ($a!==$b and $b!==$c){
-	echo "Escaleno";
-}
-}
-lados(58,43,43);
-
-?>
+echo calcula(1,1,1).' => equilátero<br/>';
+echo calcula(1,1,2).' => isósceles<br/>';
+echo calcula(2,1,2).' => isósceles<br/>';
+echo calcula(2,1,1).' => isósceles<br/>';
+echo calcula(2,1,3).' => escaleno<br/>';
+		?>

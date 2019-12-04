@@ -18,18 +18,18 @@
 	<h1><font size="10" color="#c894ff">Se tenía que decir y se dijo</font></h1>
 		
 			<img src="dijo.jpg"  width="400" height="250"/>
-			<p><h2><font  color="#ff94ae">Fecha  de estreno</h2></p></font>
+			<p><h2><font  color="#ff94ae">Fecha  de estreno</font></h2></p>
 			15/7/2069
-			<p><h2><font  color="#ff94ae">Sinopsis</h2></p></font>
+			<p><h2><font  color="#ff94ae">Sinopsis</font></h2></p>
 			El pollo Alfredo, se embarcará en una aventura para devolver la vida a su reino, que años atrás, un villano les arrebató su pueblo.
 			En la aventura, Alfredo conocerá a muchos amigos y ... a muchos enemigos.
 			
 			
-		<h1><font size="10" color="#c894ff">Uganda Knuckcles KNOES DA WAE!</font>
+		<h1><font size="10" color="#c894ff">Uganda Knuckcles KNOES DA WAE!</font></h1>
 			<p><img src="uganda.jpg"  width="400" height="250"/></p>
-			<p><h2><font  color="#ff94ae">Fecha  de estreno</h2></p></font>
+			<p><h2><font  color="#ff94ae">Fecha  de estreno</font></h2></p>
 			1/9/2039
-			<p><h2><font  color="#ff94ae">Sinopsis</h2></p></font>
+			<p><h2><font  color="#ff94ae">Sinopsis</font></h2></p>
 			 Tras el secuestro de la Reina de Uganda, Knuckcles deberá encontrar el camino correcto para llegar a DA WAE.
 			
 			
@@ -56,7 +56,7 @@
 										</tr>
 										</table>
 										<form>
-			<p><h5><font size="5">Si me ha faltado alguna comunidad autónoma,escríbala por favor</font></h5></p>  <input type="text" name="texto"><br>
+			<p><h5><font size="5">Si me ha faltado alguna comunidad autónoma,escríbala por favor</font></h5></p>  <input type="text" name="texto"></input><br>
 					<p><button type='submit'>Enviar</button></p>
 		</form>
 																
